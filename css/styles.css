@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#navbar {
+    height: 48px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.nav-link {
+    padding-right: 15px;
+    font-size: 13px;
+    color: #000000DE;
+    text-decoration: none;
+}
+
+#navbar img {
+    padding: 4px;
+}
+
+.google-apps {
+    width: 18px;
+    margin: 11px;
+}
+
+.user-profile {
+    width: 32px;
+    margin: 4px;
+}
